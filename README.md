@@ -1,7 +1,7 @@
-## Youtube Automation Project
+## [V1.0] Youtube Automation Project
 Sebuah robot yang dapat membuat Youtube Video(16/9 dan 9/16) dan mengupload video secara otomatis 
 
-## Youtube Automation Project V2
+## [V2.0] Youtube Automation Project V2
 ```dalam pengetesan bug```
 lebih kompleks🐧
 - anti captcha
@@ -16,23 +16,24 @@ lebih kompleks🐧
 - tetap upload video short versi sebelumya (perlu waktu)
 - editing untuk post Instagram,Twitter, dsb
 - private API😎
-- hanya bituh HP dan sedikit Internet untuk open ssh🐣
+- hanya butuh HP dan sedikit Internet untuk menjalankan program🐣
 - Captions
 
 ### kendala
 ```dalam pengembangan menggunakan multithreading dan multiprocessing```
-- CPU lemot🐧,karena menggunakan free cloud server
+- CPU lemot🐧, karena menggunakan free cloud server dan alur program yang panjang
 
 ### Update kedepan
 ```add 12 youtube channel```
 - Pengembangan mesin editing lebih kompleks
-- Deep Fake (Voice cloning) target voice : guru gembu1🗿
+- Deep Fake (Voice cloning) target voice tester : guru gembu1🗿
 - Dockerfile
 - Random music background (no copyright)
 - Make 3d Art
 - Monetisasi $$
 - Perancangan algoritma untuk menentukan koten kedepan dari data konten yang disukai
 - Live Jogja News 24/7 Channel
+- Publish Playstore News app with react native⚛️
 
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel : Digital Trends Report(dalam pengembangan)</a>
 
