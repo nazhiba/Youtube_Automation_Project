@@ -37,3 +37,6 @@ lebih kompleks🐧
 
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel : Digital Trends Report(dalam pengembangan)</a>
 
+
+<center>Mana kodenya?🐵<br>Mana kodenya?💻<br>NOT OPEN SOURCE🙈</center>
+
