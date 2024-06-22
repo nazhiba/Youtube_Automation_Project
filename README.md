@@ -1,8 +1,8 @@
 ## [V1.0] Youtube Automation Project
-Sebuah robot yang dapat membuat Youtube Video(16/9 dan 9/16) dan mengupload video secara otomatis 
+Sebuah robot yang dapat membuat Youtube Video(16/9 dan 9/16) dan mengupload video secara otomatis ```SEDANG UPDATE```
 
 ## [V2.0] Youtube Automation Project V2
-```dalam pengetesan bug```
+```HARI INI 22 JUNI 2024 MASIH DALAM PENGETESAN DENGAN DIJALANKAN 24/7 DENGAN CHANNEL TESTER DAN TERJADI BEBERAPA BUG💀```
 lebih kompleks🐧
 - anti captcha
 - Voice Ai
@@ -18,6 +18,8 @@ lebih kompleks🐧
 - private API😎
 - hanya butuh HP dan sedikit Internet untuk menjalankan program🐣
 - Captions
+```update 22 juni 2024```
+```Bypass login any web, Tunelling Cloudflare Zero Trust, Tunelling Google Flask/Django Web App, Some Security```
 
 ### kendala
 ```dalam pengembangan menggunakan multithreading dan multiprocessing```
