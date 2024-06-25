@@ -21,6 +21,9 @@ lebih kompleks🐧
 ```update 22 juni 2024```
 ```Bypass login any web, Tunelling Cloudflare Zero Trust, Tunelling Google Flask/Django Web App, Some Security```
 
+```update 26 juni 2024```
+```bug fix,Mencoba menggunakan Zrok Free Open Source Tunelling( masih dalam security check ),     Merencanakan pengunaan Docker, Push Rank!```
+
 ### kendala
 ```dalam pengembangan menggunakan multithreading dan multiprocessing```
 - CPU lemot🐧, karena menggunakan free cloud server dan alur program yang panjang
