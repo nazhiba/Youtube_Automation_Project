@@ -20,10 +20,16 @@ lebih kompleks🐧
 - Captions
 
 ```update 22 juni 2024```
+
 ```Bypass login any web, Tunelling Cloudflare Zero Trust, Tunelling Google Flask/Django Web App, Some Security```
 
 ```update 26 juni 2024```
-```bug fix,Mencoba menggunakan Zrok Free Open Source Tunelling( masih dalam security check ),     Merencanakan pengunaan Docker, Push Rank!```
+
+```bug fix,Mencoba menggunakan Free Open Source Tunelling( masih dalam security check ),     Merencanakan pengunaan Docker, Push Rank!```
+
+```update 27 juni 2024```
+
+```bug fix, penggunaan Free Open Source Tunneling, handle large file, Monitoring RAM usage, 🦧menunggu update nameserver cloudflare nazhiba.my.id (belum aktif), Push Down Rank!:(```
 
 ### kendala
 ```dalam pengembangan menggunakan multithreading dan multiprocessing```
