@@ -49,6 +49,11 @@ lebih kompleks🐧
 
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel : Digital Trends Report(dalam pengembangan)</a>
 
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazhiba&layout=compact&theme=dark" height=150>
 
-<center>Mana kodenya?🐵<br>Mana kodenya?💻<br>NOT OPEN SOURCE🙈</center>
+  <center>Mana kodenya?🐵<br>Mana kodenya?💻<br>NOT OPEN SOURCE🙈</center>
+
+</div>
 
