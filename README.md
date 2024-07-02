@@ -31,6 +31,10 @@ lebih kompleks🐧
 
 ```bug fix, penggunaan Free Open Source Tunneling, handle large file, Monitoring RAM usage, 🦧menunggu update nameserver cloudflare nazhiba.my.id (belum aktif), Push Down Rank!:(```
 
+```update 2 Juli 2024```
+
+```Membuat Proxy dari server lokal dan menghubungkannya dengan Free cloud server meliputi Port Forwardding, NoIP, dan beberapa konfigurasi WSL```
+
 ### kendala
 ```dalam pengembangan menggunakan multithreading dan multiprocessing```
 - CPU lemot🐧, karena menggunakan free cloud server dan alur program yang panjang
