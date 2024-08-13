@@ -1,6 +1,8 @@
 ## [V1.0] Youtube Automation Project
 Sebuah robot yang dapat membuat Youtube Video(16/9 dan 9/16) dan mengupload video secara otomatis ```SEDANG UPDATE```
+
 ```update 9 Agustus 2024```
+
 ```bug suara text to speech pada akir video telah di fix dan dijalankan pada channel tester```
 
 ## [V2.0] Youtube Automation Project V2
@@ -38,6 +40,7 @@ lebih kompleks🐧
 ```Membuat Proxy dari server lokal dan menghubungkannya dengan Free cloud server meliputi Port Forwardding, NoIP, dan beberapa konfigurasi WSL```
 
 ```update 13 Agustus 2024```
+
 ```PEROMBAKAN ULANG PROGRAM KARENA KURANG EFEKTIF dimana setelah dilakukan multiprocessing untuk menghasilkan output secepat mungkin, waktu dalam pembuatan dan upload di beberapa sosial media memerlukan waktu paling cepat 2 JAM```
 
 ### kendala
