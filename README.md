@@ -61,6 +61,10 @@ lebih kompleks🐧
 
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel : Digital Trends Report(dalam pengembangan)</a>
 
+contact me :
+
+[WhatsApp](https://api.whatsapp.com/send/?phone=%2B628895759904&text=*Saya%20mendapatkan%20nomor%20ini%20dari%20Github*%20_jika%20tidak%20menyertakan%20sumber%20nomor%20tidak%20akan%20dibalas_%20&type=phone_number&app_absent=0)
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazhiba&layout=compact&theme=dark" height=150>
