@@ -61,6 +61,11 @@ lebih kompleks🐧
 
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel : Digital Trends Report(dalam pengembangan)</a>
 
+## [V3.0] Youtube Automation Project V3
+Update tanggal 17 Agustus 2024
+- Support Screen Recording (Ini akan membuka opsi lebih luas dalam pembuatan konten)
+- ditunggu
+
 contact me :
 
 [WhatsApp](https://api.whatsapp.com/send/?phone=%2B628895759904&text=*Saya%20mendapatkan%20nomor%20ini%20dari%20Github*%20_jika%20tidak%20menyertakan%20sumber%20nomor%20tidak%20akan%20dibalas_%20&type=phone_number&app_absent=0)
