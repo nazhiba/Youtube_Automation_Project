@@ -65,6 +65,9 @@ lebih kompleks🐧
 Update tanggal 17 Agustus 2024
 - Support Screen Recording (Ini akan membuka opsi lebih luas dalam pembuatan konten)
 - ditunggu
+- contoh implementasi
+[You Tube](https://youtube.com/shorts/0-wkakmRS1s?feature=share)
+
 
 contact me :
 
