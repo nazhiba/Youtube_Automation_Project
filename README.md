@@ -59,7 +59,9 @@ lebih kompleks🐧
 - Live Jogja News 24/7 Channel
 - Publish Playstore News app with react native⚛️
 
-<a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel : Digital Trends Report(dalam pengembangan)</a>
+<a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel V1.0: Digital Trends Report(dalam pengembangan)</a>
+
+[Youtube Channel V1.0: Digital Trends Cyber](https://www.youtube.com/@DigitalTrendsCyber)
 
 ## [V3.0] Youtube Automation Project V3
 Update tanggal 17 Agustus 2024
