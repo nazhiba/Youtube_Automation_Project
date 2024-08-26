@@ -77,7 +77,7 @@ contact me :
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazhiba&layout=compact&theme=dark" height=150>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazhiba&layout=compact&theme=dark" height=150><br>
 
   <center>Mana kodenya?🐵<br>Mana kodenya?💻<br>NOT OPEN SOURCE🙈</center>
 
