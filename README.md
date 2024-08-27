@@ -66,9 +66,9 @@ lebih kompleks🐧
 ## [V3.0] Youtube Automation Project V3
 Update tanggal 17 Agustus 2024
 - Support Screen Recording (Ini akan membuka opsi lebih luas dalam pembuatan konten)
-- ditunggu
+- ditunggu. kemungkinan akan support Screen audio recording
 - contoh implementasi
-[You Tube](https://youtube.com/shorts/0-wkakmRS1s?feature=share)
+[You Tube](https://youtube.com/shorts/0-wkakmRS1s?feature=share) (auto editing tinggal masalah Unlimited Leonardo Token💀)
 
 
 contact me :
