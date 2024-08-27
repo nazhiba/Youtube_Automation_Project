@@ -71,7 +71,7 @@ Update tanggal 17 Agustus 2024
 [You Tube](https://youtube.com/shorts/0-wkakmRS1s?feature=share) (auto editing tinggal masalah Unlimited Leonardo Token💀)
 
 
-contact me :
+Bikin bot? contact me : 
 
 [WhatsApp](https://api.whatsapp.com/send/?phone=%2B628895759904&text=*Saya%20mendapatkan%20nomor%20ini%20dari%20Github*%20_jika%20tidak%20menyertakan%20sumber%20nomor%20tidak%20akan%20dibalas_%20&type=phone_number&app_absent=0)
 
