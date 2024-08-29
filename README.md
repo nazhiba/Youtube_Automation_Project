@@ -1,4 +1,4 @@
-## [V1.0] Youtube Automation Project
+<img width="848" alt="image" src="https://github.com/user-attachments/assets/c8c46db2-a285-4147-a1ed-a90b14fd5a56">## [V1.0] Youtube Automation Project
 Sebuah robot yang dapat membuat Youtube Video(16/9 dan 9/16) dan mengupload video secara otomatis ```SEDANG UPDATE```
 
 ```update 9 Agustus 2024```
@@ -62,6 +62,7 @@ lebih kompleks🐧
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel V1.0: Digital Trends Report(dalam pengembangan)</a>
 
 [Youtube Channel V1.0: Digital Trends Cyber](https://www.youtube.com/@DigitalTrendsCyber)
+[DTC:Instagram](https://www.instagram.com/digitaltrendscyber)
 
 ## [V3.0] Youtube Automation Project V3
 Update tanggal 17 Agustus 2024
