@@ -1,3 +1,5 @@
+![MORGANS](https://github.com/nazhiba/Youtube_Automation_Project/blob/main/1042887.jpg?raw=true "MORGANS")
+<br>
 ## [V1.0] Youtube Automation Project
 Sebuah robot yang dapat membuat Youtube Video(16/9 dan 9/16) dan mengupload video secara otomatis ```SEDANG UPDATE```
 
@@ -81,9 +83,6 @@ Bikin bot? Scrape data? Aplikasi? contact me :
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazhiba&layout=compact&theme=dark" height=150><br>
 
   <center>Mana kodenya?🐵<br>Mana kodenya?💻<br>NOT OPEN SOURCE🙈</center>
-
-  ![MORGANS](https://github.com/nazhiba/Youtube_Automation_Project/blob/main/1042887.jpg?raw=true "MORGANS")
-
 
 </div>
 
