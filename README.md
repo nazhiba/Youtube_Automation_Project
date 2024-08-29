@@ -33,7 +33,7 @@ lebih kompleks🐧
 
 ```update 27 juni 2024```
 
-```bug fix, penggunaan Free Open Source Tunneling, handle large file, Monitoring RAM usage, 🦧menunggu update nameserver cloudflare nazhiba.my.id (belum aktif), Push Down Rank!:(```
+```bug fix, penggunaan Free Open Source Tunneling, handle large file, Monitoring RAM usage, 🦧menunggu update nameserver cloudflare .my.id (belum aktif), Push Down Rank!:(```
 
 ```update 2 Juli 2024```
 
