@@ -1,3 +1,5 @@
+![MORGANS](https://github.com/nazhiba/Youtube_Automation_Project/blob/main/1042887.jpg?raw=true "MORGANS")
+
 ## [V1.0] Youtube Automation Project
 Sebuah robot yang dapat membuat Youtube Video(16/9 dan 9/16) dan mengupload video secara otomatis ```SEDANG UPDATE```
 
