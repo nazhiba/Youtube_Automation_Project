@@ -61,7 +61,7 @@ lebih kompleks🐧
 
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel V1.0: Digital Trends Report(dalam pengembangan)</a>
 
-[Youtube Channel V1.0: Digital Trends Cyber](https://www.youtube.com/@DigitalTrendsCyber)
+[Youtube Channel V1.0: Digital Trends Cyber](https://www.youtube.com/@DigitalTrendsCyber) | 
 [DTC:Instagram](https://www.instagram.com/digitaltrendscyber)
 
 ## [V3.0] Youtube Automation Project V3
