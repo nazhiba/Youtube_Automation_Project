@@ -66,7 +66,9 @@ lebih kompleks🐧
 [Youtube Channel V1.0: Digital Trends Cyber - Deleted](https://www.youtube.com/@DigitalTrendsCyber) | 
 [DTC:Instagram](https://www.instagram.com/digitaltrendscyber)
 
-(Youtube channel dihapus karena ada channel lain di akun yang sama <Digital Trends Military> yang melanggar aturan YouTube berupa footage serangan hezbullah dan hamas🗿)🔥🔥🔥 😮‍💨🤕. ok gawe meneh🐣
+(2 November 2024 Youtube channel DTC dihapus karena ada channel lain di akun yang sama <Digital Trends Military> yang melanggar aturan YouTube berupa footage serangan hezbullah dan hamas🗿)🔥🔥🔥 😮‍💨🤕. ok gawe meneh🐣
+
+(2 November 2024 setelah mengajukan banding channel DTC telah dikembalikan🔥)
 
 
 ## [V3.0] Youtube Automation Project V3
