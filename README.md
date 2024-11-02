@@ -63,8 +63,11 @@ lebih kompleks🐧
 
 <a href="https://youtube.com/@DigitalTrendsReport">Youtube Channel V1.0: Digital Trends Report(dalam pengembangan)</a>
 
-[Youtube Channel V1.0: Digital Trends Cyber](https://www.youtube.com/@DigitalTrendsCyber) | 
+[Youtube Channel V1.0: Digital Trends Cyber - Deleted](https://www.youtube.com/@DigitalTrendsCyber) | 
 [DTC:Instagram](https://www.instagram.com/digitaltrendscyber)
+
+(Youtube channel dihapus karena ada channel lain di akun yang sama <Digital Trends Military> yang melanggar aturan YouTube berupa footage serangan hezbullah dan hamas🗿)🔥🔥🔥 😮‍💨🤕. ok gawe meneh🐣
+
 
 ## [V3.0] Youtube Automation Project V3
 Update tanggal 17 Agustus 2024
