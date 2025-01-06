@@ -52,7 +52,7 @@ lebih kompleks🐧
 ### Update kedepan
 ```add 12 youtube channel```
 - Pengembangan mesin editing lebih kompleks
-- Deep Fake (Voice cloning) target voice tester : guru gembu1🗿
+- Deep Fake (Voice cloning) target voice tester : *******
 - Dockerfile
 - Random music background (no copyright)
 - Make 3d Art
